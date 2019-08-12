@@ -1,0 +1,14 @@
+{
+  "templates": {
+    "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+    "scope": "@bar-hop-bingo",
+    "workspace": "lcu-bar-hop-bingo"
+  },
+  "config": {
+    "wc": ["wc/lcu-bar-hop-bingo.lcu.js"],
+    "solutions": {},
+    "elements": {},
+    "flux": {},
+    "dependencies": {}
+  }
+}
